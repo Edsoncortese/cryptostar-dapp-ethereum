@@ -7,4 +7,4 @@ This project involves creating a Dapp on the Ethereum network. The OpenZeppelin 
 
 ### ERC-721 Token symbol - CST
 
-### Token Address on the Rinkeby Network - 0x6A83c4480435323679CAfa38d70602ECEd763FdF
+### Token Address on the Rinkeby Network - 0x9288FedFD10e278DFFfE8c828A6DF1Fb930AB650
