@@ -1,6 +1,5 @@
 # Blockchain Developer Nanodegree
 # CryptoStar Dapp on Ethereum
-# Chico says hello
 
 This project involves creating a Dapp on the Ethereum network. The OpenZeppelin library is used to create the ERC721 token and put the token on a public Ethereum Network.  In this case
 
