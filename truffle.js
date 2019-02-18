@@ -25,7 +25,7 @@ module.exports = {
     rinkeby: {
       provider: function () {
         return new HDWalletProvider(
-          "message remain word bubble frozen path leader job scare lend speed anxiety",
+          "<your metamask seed",
           "https://rinkeby.infura.io/v3/3a87200afcaa4f4fa9026538a80f3199");
       },
       network_id: "4",
